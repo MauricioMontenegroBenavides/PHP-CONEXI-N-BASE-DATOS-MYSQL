@@ -1,0 +1,16 @@
+{
+    "name": "mau/8-base-datos-php",
+    "description": "MAURICIO PROYECTO",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mauricio",
+            "email": "maur1025@hotmail.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {"MySQLi\\":"MySQLi/","PDO\\":"PDO/","App\\":"app/"}
+    },
+    "require": {}
+}
